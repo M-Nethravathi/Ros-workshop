@@ -65,6 +65,8 @@ Outcome: Successfully mapped the environment and set up the TurtleBot for automa
 
 ![image](https://github.com/user-attachments/assets/17e3eece-a814-4df8-89ad-da6ab9f17eb8)
 Summary of Learnings
+
+
 This workshop provided practical experience in robotics simulation using ROS2, Gazebo, and RViz, enabling better understanding of robot control, mapping, and simulation environments. By the end, participants were able to:
 
 Navigate and use Linux commands for ROS2 tasks.
